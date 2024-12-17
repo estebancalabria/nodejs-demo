@@ -1,5 +1,5 @@
 {
-  "name" : "Ejemplo API"
+  "name" : "Ejemplo API",
   "license": "MIT",
   "main" : "server.js",
   "scripts" : {
